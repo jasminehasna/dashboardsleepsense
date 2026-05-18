@@ -1,0 +1,8 @@
+.matplotlib_cache/
+reports/figures/*.png
+reports/preliminary_assessment_summary.csv
+reports/column_dictionary_draft.csv
+data/raw/*.csv
+data/raw/*.zip
+data/processed/*.csv
+!data/processed/sleepsense_feature_engineered.csv
